@@ -1,11 +1,19 @@
-div{
-  background-color:black;
-  color:white;
-  margin-right:150px;
-  padding:5px;
+*{
+  font-family:arial,verdana,spectral;
 }
-
-footer {
-  background-color:(255,0,0,0.50) 
-  color:(0,255,0,0.50) 
+body{ 
+  background-color:pink;
+  color:black;
+  justify-content:center;
+  align-content:center;
 }
+#101,#102{
+  border-color:black;
+  border-radius:15px;
+  border-style:solid;
+}
+button:hover{
+  background-color:green;
+  cursor:pointer;
+}
+  
